@@ -6,7 +6,7 @@ This study was conducted to model how laptop prices differ with different factor
 
 The Random Forest model with 10-fold cross-validation gave the test RMSE of 230.2287 and MAPE value of 15.09% when the number of trees ("ntree") was 500 and the number of variables ("mtry") was 44, and the 81.35% of the total variance explained by the fitted model. Furthermore, this model was used to develop the data product application. The data product was deployed on ShinyApps.io.
 
-Technologies used: R, R Shiny
+R, R Shiny
 
 
 
